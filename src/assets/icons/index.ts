@@ -95,6 +95,36 @@ import emojiHappy from "./emoji-happy";
 import lamp from "./lamp";
 import judge from "./judge";
 import cup from "./cup";
+import flag2 from "./flag-2";
+import level from "./level";
+import flag from "./flag";
+import diamonds from "./diamonds";
+import mickrophone from "./mickrophone";
+import mickrophoneSlash from "./mickrophone-slash";
+import mickrophone2 from "./mickrophone-2";
+import mickrophoneSlash2 from "./mickrophone-slash-2";
+import volumeCross from "./volume-cross";
+import volumeSlash from "./volume-slash";
+import volumeUp from "./volume-up";
+import volumeLow from "./volume-low";
+import volumeHigh from "./volume-high";
+import volumeMute from "./volume-mute";
+import video from "./video";
+import videoSlash from "./video-slash";
+import videoSquare from "./video-square";
+import videoCircle from "./video-circle";
+import gallery from "./gallery";
+import galleryFavorite from "./gallery-favorite";
+import gallerySlash from "./gallery-slash";
+import galleryTick from "./gallery-tick";
+import galleryImport from "./gallery-import";
+import galleryExport from "./gallery-export";
+import galleryAdd from "./gallery-add";
+import galleryRemove from "./gallery-remove";
+import galleryEdit from "./gallery-edit";
+import image from "./image";
+import screenmirroring from "./screenmirroring";
+import camera from "./camera";
 
 const Icons = {
   shoppingCart,
@@ -194,6 +224,36 @@ const Icons = {
   lamp,
   judge,
   cup,
+  flag2,
+  level,
+  flag,
+  diamonds,
+  mickrophone,
+  mickrophoneSlash,
+  mickrophone2,
+  mickrophoneSlash2,
+  volumeCross,
+  volumeSlash,
+  volumeUp,
+  volumeLow,
+  volumeHigh,
+  volumeMute,
+  video,
+  videoSlash,
+  videoSquare,
+  videoCircle,
+  gallery,
+  galleryFavorite,
+  gallerySlash,
+  galleryTick,
+  galleryImport,
+  galleryExport,
+  galleryAdd,
+  galleryRemove,
+  galleryEdit,
+  image,
+  screenmirroring,
+  camera,
 };
 
 // share => flash
