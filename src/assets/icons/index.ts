@@ -142,6 +142,43 @@ import backward5Seconds from "./backward-5-seconds";
 import backward10Seconds from "./backward-10-seconds";
 import backward15Seconds from "./backward-15-seconds";
 import forward5Seconds from "./forward-5-seconds";
+import forward10Seconds from "./forward-10-seconds";
+import forward15Seconds from "./forward-15-seconds";
+import musicPlaylist from "./music-playlist";
+import musicFilter from "./music-filter";
+import musicDashboard from "./music-dashboard";
+import musicSquareRemove from "./music-square-remove";
+import musicSquareAdd from "./music-square-add";
+import musicSquareSearch from "./music-square-search";
+import repeateMusic from "./repeate-music";
+import repeateOne from "./repeate-one";
+import voiceSquare from "./voice-square";
+import voiceCricle from "./voice-cricle";
+import maximizeCircle from "./maximize-circle";
+import miniMusicSqaure from "./mini-music-sqaure";
+import videoAdd from "./video-add";
+import videoRemove from "./video-remove";
+import videoTick from "./video-tick";
+import videoTime from "./video-time";
+import videoOctagon from "./video-octagon";
+import videoVertical from "./video-vertical";
+import videoHorizontal from "./video-horizontal";
+import videoPlay from "./video-play";
+import subtitle from "./subtitle";
+import playCircleDashed from "./play-circle-dashed";
+import recordCircle from "./record-circle";
+import musicLibrary2 from "./music-library-2";
+import musicSquare from "./music-square";
+import audioSquare from "./audio-square";
+import noteSquare from "./note-square";
+import record from "./record";
+import stop from "./stop";
+import musicnote from "./musicnote";
+import music from "./music";
+import shuffle from "./shuffle";
+import volume from "./volume";
+import cameraSlash from "./camera-slash";
+import play from "./play";
 
 const Icons = {
   shoppingCart,
@@ -288,9 +325,47 @@ const Icons = {
   backward10Seconds,
   backward15Seconds,
   forward5Seconds,
+  forward15Seconds,
+  forward10Seconds,
+  musicPlaylist,
+  musicFilter,
+  musicDashboard,
+  musicSquareRemove,
+  musicSquareAdd,
+  musicSquareSearch,
+  repeateMusic,
+  repeateOne,
+  voiceSquare,
+  voiceCricle,
+  maximizeCircle,
+  miniMusicSqaure,
+  videoAdd,
+  videoRemove,
+  videoTick,
+  videoTime,
+  videoOctagon,
+  videoVertical,
+  videoHorizontal,
+  videoPlay,
+  subtitle,
+  playCircleDashed,
+  recordCircle,
+  musicLibrary2,
+  musicSquare,
+  audioSquare,
+  noteSquare,
+  record,
+  stop,
+  musicnote,
+  music,
+  shuffle,
+  volume,
+  cameraSlash,
+  play,
 };
 
 // share => flash
 // 3dcube => cube3d
+// play-circle => play-circle-dashed
 
 export default Icons
