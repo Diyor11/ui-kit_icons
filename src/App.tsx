@@ -4,7 +4,7 @@ import Icon from "./assets/icons"
 function App() {
   return (
     <div className="App">
-      <Icon.miniMusicSqaure.Bold />
+      <Icon.binanceCoinBnb.Linear />
     </div>
   );
 }

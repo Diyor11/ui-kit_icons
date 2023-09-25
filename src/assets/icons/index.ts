@@ -179,6 +179,12 @@ import shuffle from "./shuffle";
 import volume from "./volume";
 import cameraSlash from "./camera-slash";
 import play from "./play";
+import bitcoinBtc from "./bitcoin-(btc)";
+import ethereumEth from "./ethereum-(eth)";
+import binanceCoinBnb from "./binance-coin-(bnb)";
+import tetherUsdt from "./tether-(usdt)";
+import cardanoAda from "./cardano-(ada)";
+import binanceUsdBusd from "./binance-usd-(busd)";
 
 const Icons = {
   shoppingCart,
@@ -362,6 +368,12 @@ const Icons = {
   volume,
   cameraSlash,
   play,
+  bitcoinBtc,
+  ethereumEth,
+  binanceCoinBnb,
+  tetherUsdt,
+  cardanoAda,
+  binanceUsdBusd,
 };
 
 // share => flash
