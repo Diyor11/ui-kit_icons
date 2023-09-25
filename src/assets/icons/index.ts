@@ -125,6 +125,23 @@ import galleryEdit from "./gallery-edit";
 import image from "./image";
 import screenmirroring from "./screenmirroring";
 import camera from "./camera";
+import stopCircle from "./stop-circle";
+import pauseCircle from "./pause-circle";
+import pause from "./pause";
+import scissor from "./scissor";
+import backward from "./backward";
+import forward from "./forward";
+import previous from "./previous";
+import next from "./next";
+import radio from "./radio";
+import musicCircle from "./music-circle";
+import playCircle from "./play-circle";
+import playRemove from "./play-remove";
+import playAdd from "./play-add";
+import backward5Seconds from "./backward-5-seconds";
+import backward10Seconds from "./backward-10-seconds";
+import backward15Seconds from "./backward-15-seconds";
+import forward5Seconds from "./forward-5-seconds";
 
 const Icons = {
   shoppingCart,
@@ -254,6 +271,23 @@ const Icons = {
   image,
   screenmirroring,
   camera,
+  stopCircle,
+  pauseCircle,
+  pause,
+  scissor,
+  backward,
+  forward,
+  previous,
+  next,
+  radio,
+  musicCircle,
+  playCircle,
+  playRemove,
+  playAdd,
+  backward5Seconds,
+  backward10Seconds,
+  backward15Seconds,
+  forward5Seconds,
 };
 
 // share => flash
